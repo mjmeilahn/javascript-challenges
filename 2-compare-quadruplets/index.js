@@ -3,7 +3,7 @@
 // INPUT "a": [5, 6, 7, 4]
 // INPUT "b": [3, 6, 10, 7]
 
-// EXPECTED OUTPUT: [1, 1]
+// EXPECTED OUTPUT: [1, 2]
 
 
 const a = [5, 6, 7, 4];
