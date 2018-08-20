@@ -14,6 +14,7 @@ Bob's reviews are at the end of the returned array.
 
 ## Example
 Given that a = [7, 8, 9, 10].
+
 Also given that b = [9, 8, 7, 5].
 
 Alice's first review is less than Bob's review,
@@ -29,6 +30,7 @@ Return result from this is [2, 1]. Alice is the chosen favorite by the film comp
 
 ## Constraints
 1 <= a[i] <= 10
+
 1 <= b[i] <= 10
 
 ## Output Format
