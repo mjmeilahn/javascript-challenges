@@ -10,3 +10,5 @@ A list of all Javascript challenges I've completed to master algorithms & data s
 4. Diagonal Difference - Return the difference in a mathematical Matrix
 
 5. Staircase - Return an Nth amount staircase of #'s
+
+6. Mini/Max Sum - Return the minimum & maximum sum from an array
