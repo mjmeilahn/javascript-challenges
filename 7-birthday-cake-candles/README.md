@@ -9,7 +9,7 @@ For example, if your niece is turning 4 years old, and the cake will have 4 cand
 
 ## Example
 
-Given that array b = [3, 3, 4, 6, 6, 3, 3, 2, 1].
+Given that array b = [5, 3, 3, 4, 6, 6, 3, 3, 2, 1].
 
 You'd return 2, because there are two instances of the value "6" inside the array.
 
@@ -21,4 +21,4 @@ You'd return 2, because there are two instances of the value "6" inside the arra
 
 ## Output Format
 
-Returns a string
+Returns a number

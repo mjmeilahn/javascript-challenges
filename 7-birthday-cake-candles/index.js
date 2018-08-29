@@ -10,7 +10,7 @@ function birthdayCakeCandles(ar) {
     let arrLength = reformat.length - 1;
     let highest = reformat[arrLength];
     let amount = reformat.filter(a => a === highest);
-    
+
     return amount.length;
 }
 
