@@ -16,3 +16,5 @@ A list of all Javascript challenges I've completed to master algorithms & data s
 7. Birthday Cake Candles - Return how many instances of largest numbers within an array
 
 8. Grading Students - Round up a set of numbers within a set range
+
+9. Apples & Oranges - Log how many times a number falls within a set range
