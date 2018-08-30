@@ -49,6 +49,7 @@ Two Oranges hit Sam's house.
 ## Constraints
 
 1 <= s, e, a, o
+
 a < s < t < b
 
 
