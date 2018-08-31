@@ -50,7 +50,7 @@ Two Oranges hit Sam's house.
 
 1 <= s, e, a, o
 
-a < s < t < b
+a < s < e < o
 
 
 ## Output Format
